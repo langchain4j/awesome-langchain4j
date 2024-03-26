@@ -11,7 +11,7 @@ We welcome all types of more elaborate examples, such as
 
 | Title   | Short Description     | Contributor | Usage and Extension allowed | Usage for Demos allowed
 |-------------| ------------- | ----------- | ------------- | ------------- | 
-| [Customer Assistant in Spring Boot](https://github.com/langchain4j/langchain4j-examples/blob/main/spring-boot-example/src/test/java/dev/example/CustomerSupportApplicationTest.java) | Car rental service customer assistant with memory, access to terms of use, and tools to intervene on bookings. Powered by GPT-4. | Dmytro Liubarskyi | ✅ |  ✅ |     
+| [Customer Assistant in Spring Boot](https://github.com/langchain4j/langchain4j-examples/blob/cacef9854057f3017ee5405368cd27c446a5df3f/customer-support-agent-example/src/main/java/dev/langchain4j/example/CustomerSupportAgentApplication.java#L39) | Car rental service customer assistant with memory, access to terms of use, and tools to intervene on bookings. Powered by GPT-4. | Dmytro Liubarskyi | ✅ |  ✅ |     
 
 ## Usage Conditions
 
