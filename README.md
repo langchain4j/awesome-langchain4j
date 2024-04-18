@@ -1,5 +1,9 @@
 # [LangChain4j](https://github.com/langchain4j/langchain4j) Community Examples
 
+<img src='images/langchain4j_logo_text.png' alt='LangChain4j Integrations' width="200">
+
+## Awesome LangChain4j 🎉
+
 This repository is a space to find and share more elaborate examples using the LangChain4j library.
 The idea is to allow the community to inspire each other, to build on these examples or to use them for demo's. 
 Please read the [usage conditions](#usage-conditions) at the end of this page, and check the license of the project in question before using the examples, and credit the creator.
