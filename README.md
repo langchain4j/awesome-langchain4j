@@ -1,4 +1,4 @@
-# [LangChain4j](https://github.com/langchain4j/langchain4j) Community Resources
+# [LangChain4j](https://github.com/langchain4j/langchain4j) Community Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src='images/langchain4j_logo_text.png' alt='LangChain4j Integrations' width="200">
 
