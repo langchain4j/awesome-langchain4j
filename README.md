@@ -1,8 +1,6 @@
-# [LangChain4j](https://github.com/langchain4j/langchain4j) Community Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [LangChain4j](https://github.com/langchain4j/langchain4j) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src='images/langchain4j_logo_text.png' alt='LangChain4j Integrations' width="200">
-
-## Awesome LangChain4j 🎉
 
 This repository is a space to find and share resources (articles, videos, more elaborate examples, etc.) using the LangChain4j library.
 The idea is to allow the community to learn and inspire each other. 
